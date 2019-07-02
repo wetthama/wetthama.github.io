@@ -10369,7 +10369,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #283333 !important;
+  color: #2c3e50 !important;
 }
 
 .text-primary {
@@ -10449,7 +10449,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-white-50 {
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(44, 62, 80, 0.5) !important;
 }
 
 .text-hide {
