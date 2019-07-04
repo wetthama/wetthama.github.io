@@ -204,8 +204,13 @@ figure {
 }
 
 img {
+
   vertical-align: middle;
   border-style: none;
+}
+
+aclImg {
+  margin-top: -70px;
 }
 
 svg {
