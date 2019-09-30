@@ -6925,8 +6925,12 @@ a.close.disabled {
 }
 
 .bg-primary {
-  /* background-color: #8cffe6 !important; */
   background-image: url('/img/homeBackgroundImage.jpg');
+  background-color: #cccccc; /* Used if the image is unavailable */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; /* Resize the background image to cover the entire container */
+
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
