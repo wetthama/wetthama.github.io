@@ -6929,7 +6929,9 @@ a.close.disabled {
   background-color: #cccccc; /* Used if the image is unavailable */
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-size: cover;
+  filter: blur(6px);
+  -webkit-filter: blur(6px);
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
