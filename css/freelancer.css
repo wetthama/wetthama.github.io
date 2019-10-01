@@ -6926,7 +6926,7 @@ a.close.disabled {
 
 .bg-primary {
   background-image: url('/img/homeBackgroundImage.jpg');
-  background-color: #cccccc; /* Used if the image is unavailable */
+  /*background-color: #cccccc; /* Used if the image is unavailable */
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
