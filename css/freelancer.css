@@ -6932,8 +6932,7 @@ a.close.disabled {
   background-size: cover;
   height: 100%;
   width: 100%;
-  /*padding-top: calc(+6rem + 70px);*/
-  display:inline;
+  position: absolute;
 }
 
 .blurImage {
@@ -7416,6 +7415,7 @@ button.bg-dark:focus {
   -webkit-box-direction: normal !important;
   -ms-flex-direction: column !important;
   flex-direction: column !important;
+  position: relative;
 }
 
 .flex-row-reverse {
