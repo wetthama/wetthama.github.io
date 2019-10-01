@@ -10762,6 +10762,11 @@ a.text-dark:hover, a.text-dark:focus {
 .masthead .masthead-avatar {
   width: 15rem;
   margin-top: 50px;
+  transition: transform .2s; /* Animation */
+}
+
+.masthead-avatar:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
 @media (min-width: 992px) {
