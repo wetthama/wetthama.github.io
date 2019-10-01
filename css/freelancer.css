@@ -6932,7 +6932,7 @@ a.close.disabled {
   background-size: cover;
   height: 100%;
   width: 100%;
-  padding-top: calc(-6rem + 70px);
+  /*padding-top: calc(+6rem + 70px);*/
 }
 
 .blurImage {
