@@ -6935,10 +6935,9 @@ a.close.disabled {
 }
 
 .blurImage {
-  filter: blur(6px);
-  -webkit-filter: blur(6px);
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
   position:absolute;
-  z-index: -1;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
