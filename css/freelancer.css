@@ -6937,7 +6937,6 @@ a.close.disabled {
 .blurImage {
   filter: blur(4px);
   -webkit-filter: blur(4px);
-  position:absolute;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
