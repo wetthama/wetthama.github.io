@@ -6932,6 +6932,7 @@ a.close.disabled {
   background-size: cover;
   filter: blur(6px);
   -webkit-filter: blur(6px);
+  height: 100%;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
